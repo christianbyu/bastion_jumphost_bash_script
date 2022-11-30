@@ -36,7 +36,7 @@ echo "Remote server5 "
 ssh server5
 ;;
 6)
-echo "Remote server5 "
-ssh server5
+echo "Remote server6 "
+ssh server6
 ;;
 esac
